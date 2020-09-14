@@ -426,6 +426,14 @@ img.portrait {
 	background-image:url(../images/icn-tel.gif);
 }
 
+.self ul li.flag {
+	background-image:url(../images/icn-flag.gif);
+}
+
+.self ul li.flag {
+	background-image:url(../images/icn-avatar.gif);
+}
+
 .self ul li.web {
 	background-image:url(../images/icn-web.gif);
 }
